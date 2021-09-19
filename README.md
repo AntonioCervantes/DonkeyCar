@@ -1,5 +1,5 @@
 # DonkeyCar
-Autonomous self-driving car using Autorope's donkeycar open-source software
+Autonomous self-driving car using Autorope's donkeycar open-source software. Most of the code was not written by me, but was modified it to be configured onto my RC car.
 
 ![donkeycar2](https://user-images.githubusercontent.com/87390731/133941557-80d9f9e6-2b96-49e0-ab23-7434410fb5fd.PNG)
 
