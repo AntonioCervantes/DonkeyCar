@@ -1,0 +1,1 @@
+{"input_names": ["img_in"], "output_names": ["n_outputs0/BiasAdd", "n_outputs1/BiasAdd"]}
