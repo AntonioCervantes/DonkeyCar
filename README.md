@@ -4,7 +4,7 @@ Autonomous self-driving car using Autorope's donkeycar open-source software.
 ![donkeycar2](https://user-images.githubusercontent.com/87390731/133941557-80d9f9e6-2b96-49e0-ab23-7434410fb5fd.PNG)
 
 ## Software
-The software was provided by the donkeycar [repo](https://github.com/autorope/donkeycar) and modified to suit the needs for my car. This software uses a convolutional neural network (CNN) to make predictions/decisions on how to drive the car based on users past driving input and camera images. You start by manually driving the car. The software records your driving inputs (steering angle and throttle) and camera images of the road. This data is fed to the CNN which produces a model of your driving habits. After you transfer that model onto the car and run autopilot which will infer the live visual data of the car on the track, or in other words, it will start driving on its own!
+The software was provided by the [autorope/donkeycar](https://github.com/autorope/donkeycar) repo and modified to suit the needs for my car. This software uses a convolutional neural network (CNN) to make predictions/decisions on how to drive the car based on users past driving input and camera images. You start by manually driving the car. The software records your driving inputs (steering angle and throttle) and camera images of the road. This data is fed to the CNN which produces a model of your driving habits. After you transfer that model onto the car and run autopilot which will infer the live visual data of the car on the track, or in other words, it will start driving on its own!
 ![image](https://user-images.githubusercontent.com/87390731/134260788-a8d13bc5-891f-414c-bb37-2fb63de9616f.png)
 
 ### Hardware
