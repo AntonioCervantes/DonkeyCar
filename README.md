@@ -13,3 +13,7 @@ The Self-Driving RC Car uses components recommended by the donkeycar docs which 
 
 ## Version 2 - Currently in the works
 ![IMG-2140](https://user-images.githubusercontent.com/87390731/133941502-43663ebd-376c-4e30-8b4d-c073a8fc3357.jpg)
+
+## More Pictures
+![donkeycar](https://user-images.githubusercontent.com/87390731/134261556-9fc5f617-20f4-4643-9629-a8bb6d5de349.PNG)
+![donkeycar3](https://user-images.githubusercontent.com/87390731/134261551-da4c65b0-3be9-4bdc-842c-15f75c42ce79.PNG)
